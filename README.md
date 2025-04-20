@@ -16,8 +16,8 @@ To do that:
 
 - Navigate to identity Governance >> Entitlement Management
 
-- Access Package >> Selected Catalog Platform explorers Catalog 
+- Access Package >> Selected Catalog is Platform explorers Catalog 
 
-- Create New Access Package In this case, I used **Denis Access Package**
+- Create New Access Package In this case, I used **Denis IT Access Package**
 
-- 
+- <img width="959" alt="Access package" src="https://github.com/user-attachments/assets/4f845555-f924-498c-a543-be6ceeab8d3a" />
