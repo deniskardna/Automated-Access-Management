@@ -24,6 +24,8 @@ To do that:
 
 - Access Reviewer
 
+- <img width="959" alt="Access package 10" src="https://github.com/user-attachments/assets/b5a9ab1d-029b-4eff-a1ba-35ce5392a863" />
+
 - <img width="959" alt="Access package" src="https://github.com/user-attachments/assets/4f845555-f924-498c-a543-be6ceeab8d3a" />
 
 - <img width="953" alt="Access package 9" src="https://github.com/user-attachments/assets/9f45ca28-3b83-481d-8ad5-b54c8f3f402e" />
