@@ -34,14 +34,28 @@ To do that:
 
 - <img width="948" alt="Access package 12" src="https://github.com/user-attachments/assets/2f89cc42-4c58-46db-b5c2-9d5d70494c44" />
 
+- **Requestor Information**
+
+- <img width="959" alt="Access package 19" src="https://github.com/user-attachments/assets/cf017f2b-b102-4dbf-b507-5fa1078d312d" />
+
+
 - **Lifecycle**
 
 - <img width="947" alt="Access package 13" src="https://github.com/user-attachments/assets/f2181ef4-424b-4156-bd0a-5744a1487c11" />
 
 - **Access Reviewer**
 
-<img width="953" alt="Access package 14" src="https://github.com/user-attachments/assets/058f5a02-ac80-4eff-96a2-a296ecacea5c" />
+- <img width="953" alt="Access package 14" src="https://github.com/user-attachments/assets/058f5a02-ac80-4eff-96a2-a296ecacea5c" />
+
+- **Review + Create**
+
+- <img width="950" alt="Access package 15" src="https://github.com/user-attachments/assets/f5397f81-b959-4955-9707-fa6cdfc79a3b" />
+
+- <img width="950" alt="Access package 16" src="https://github.com/user-attachments/assets/943972f9-9d7f-47af-8293-dcc62c6ebc08" />
+
+- <img width="950" alt="Access package 18" src="https://github.com/user-attachments/assets/540ba996-1fb9-4850-9f85-8d6d7f19d7f8" />
 
 
+**Conclusion** Microsoft Entra ID Governance offers a comprehensive solution for automating access management, enhancing security, streamlining processes, and conducting regular access reviews. By leveraging its features, the company can ensure that users have the appropriate access based on their roles and responsibilities, minimize the risk of unauthorized access, and simplify the management of access requests and reviews.
 
 
