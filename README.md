@@ -30,7 +30,7 @@ To do that:
 
 - <img width="956" alt="Access package 1" src="https://github.com/user-attachments/assets/0304bebe-8209-4cda-b5ed-5924f0b6a0b2" />
 
-- <img width="953" alt="Access package 9" src="https://github.com/user-attachments/assets/271008df-84bf-4d18-b1e7-1c33a10e6d91" />
+- <img width="955" alt="Access package 2" src="https://github.com/user-attachments/assets/3b7b1114-ea8d-4146-92da-ef55a53f0a87" />
 
 - **Access Package first Approver**
 
