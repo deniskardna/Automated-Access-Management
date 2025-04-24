@@ -20,9 +20,7 @@ To do that:
 
 - Create New Access Package In this case, I used **Denis IT Access Package**
 
-- Request Access Package >> Selected Specific User
-
-- Access Reviewer
+- Basic >> Resource Roles >> Request >> Requestor Information >> Lifecyle
 
 - <img width="959" alt="Access package" src="https://github.com/user-attachments/assets/4f845555-f924-498c-a543-be6ceeab8d3a" />
 
