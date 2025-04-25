@@ -28,15 +28,11 @@ To do that:
 
 - <img width="956" alt="Access package 1" src="https://github.com/user-attachments/assets/0304bebe-8209-4cda-b5ed-5924f0b6a0b2" />
 
-- <img width="955" alt="Access package 2" src="https://github.com/user-attachments/assets/3b7b1114-ea8d-4146-92da-ef55a53f0a87" />
+- <img width="950" alt="Access package 20" src="https://github.com/user-attachments/assets/410c2049-917f-41f1-ab23-8a43df60bf9c" />
 
 - **Access Package first Approver**
 
 - <img width="948" alt="Access package 12" src="https://github.com/user-attachments/assets/2f89cc42-4c58-46db-b5c2-9d5d70494c44" />
-
-- **Requestor Information**
-
-- <img width="959" alt="Access package 19" src="https://github.com/user-attachments/assets/cf017f2b-b102-4dbf-b507-5fa1078d312d" />
 
 
 - **Lifecycle**
